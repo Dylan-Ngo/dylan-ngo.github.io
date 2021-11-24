@@ -2954,7 +2954,7 @@ input, select, textarea {
 			}
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 10.5pt;
 			}
 
 		/* Image */
@@ -3120,7 +3120,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 11pt;
 			}
 
 			h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
